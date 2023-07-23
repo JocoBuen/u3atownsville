@@ -1,0 +1,21 @@
+[18/Jul/2023:12:44:49] (I): WordPress Instance Info:
+[18/Jul/2023:12:44:49] (I): Home URL : http://localhost:8080
+[18/Jul/2023:12:44:49] (I): Site URL : http://localhost:8080
+[18/Jul/2023:12:44:49] (I): WordPress Version : 6.2.2
+[18/Jul/2023:12:44:49] (I): Onboarding Version : 1.1.39
+[18/Jul/2023:12:44:49] (I): Multisite : No
+[18/Jul/2023:12:44:49] (I): Server Info : Apache/2.4.56 (Debian)
+[18/Jul/2023:12:44:49] (I): PHP Version : 8.0.29
+[18/Jul/2023:12:44:49] (I): HTTPS : No
+[18/Jul/2023:12:44:49] (I): PHP Max Execution Time : 30
+[18/Jul/2023:12:44:49] (I): PHP Max Input Vars : 1000
+[18/Jul/2023:12:44:49] (I): Max Upload Size : 2097152
+[18/Jul/2023:12:44:49] (I): Plugins:
+[18/Jul/2023:12:44:49] (I): [PLUGIN] All-in-One WP Migration : v7.76 (ServMask)
+[18/Jul/2023:12:44:49] (I): [PLUGIN] Child Theme Configurator : v2.6.2 (Lilaea Media)
+[18/Jul/2023:12:44:49] (I): [PLUGIN] Gutena Forms - Contact Forms Block : v1.0.9 (ExpressTech)
+[18/Jul/2023:12:44:49] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.3.2 (ThemeIsle)
+[18/Jul/2023:12:44:49] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
+[18/Jul/2023:12:44:49] (P): Installing optimole-wp.
+[18/Jul/2023:12:44:59] (P): Activating optimole-wp.
+[18/Jul/2023:12:45:01] (S): Installed and activated plugins.
